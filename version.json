@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "download_url": "https://github.com/Janns07K/LeviaCraft-Loader/releases/download/v1.0.2/LeviaCraft.exe",
-    "sha256": "db35d36342814c4e4f76d7a5696754501659cf286c74c6882ecc5538625f43ec",
+    "version": "1.0.3",
+    "download_url": "https://github.com/Janns07K/LeviaCraft-Loader/releases/download/v1.0.3/LeviaCraft.exe",
+    "sha256": "0aed34b9d23c1f22b4048e8bc0b49ff093a31da21d4e5fc92bbd909787ce16d6",
     "changelog": "Amélioration de sécurité et corrections de bugs"
 }
